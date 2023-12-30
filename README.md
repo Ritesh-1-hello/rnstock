@@ -1,1 +1,1 @@
-# rnstock
+# React Native Stock
